@@ -1,9 +1,11 @@
-<h2><img src="https://giphy.com/gifs/security-lock-givegab-gHPOb1fEVWu5GHL2tk" width="30"/> Hello^^ I'm Shaikh Ahmed!</h2>
-<img align='right' src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt" width="230">
-<p><em>Werkstudent / Part Timer at <a href="https://fliki.ai/">Cumulocity Cybersecurity Department
+<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhyZWd1bzVpYmwzdGFzaTM4YWlnazcyazVuemwxNmR2bnNxNWRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gHPOb1fEVWu5GHL2tk/giphy.gif" width="30"/> Hello^^ I'm Shaikh Ahmed!</h2>
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVqNGZ2ZDkzMGwwd296dHRyYzg0eTdqYWo0MWdieG5jbm1uajVkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
+<p><em>Working Student at <a href="https://www.cumulocity.com">Cumulocity's Cybersecurity Department
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-shaikh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)](https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)
+[![Linkedin: shaikhl](https://img.shields.io/badge/-Latest%20Research!-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)](https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)
+[![Latest Research](https://img.shields.io/badge/-shaikh-blue?style=flat-square&link=https://ieeexplore.ieee.org/document/10592406)](https://ieeexplore.ieee.org/document/10592406)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -22,4 +24,4 @@ faviorateSaying: "You may not always be the smartest engineer in the room, but y
 controversialHotTake = " CamelCase is BETTER THAN snake_case!!!!!"
 ```
 
-<img src="https://giphy.com/gifs/hamlet-reading-learning-osmosis-1hXY6iNdTFpTW4je85" width="120"> <em><b>I love learning from other people</b> so if you want to drop advice or discuss ANYTHING (including and specially non-tech) <b>hi, I'll be happy to hear from you via LinkedIN!!</b> 😊</em>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJiOWI3aXk0cnljMmJwNzg5cGl5ZHRuOWNoaDIxeTNrMHExYjJucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hXY6iNdTFpTW4je85/giphy.gif" width="120"><br> <em><b>I love learning from other people</b> so if you want to drop advice or discuss ANYTHING (including and specially non-tech) <b>hi, I'll be happy to hear from you via LinkedIN!!</b> 😊</em>
