@@ -50,6 +50,6 @@ controversialHotTake = "CamelCase is BETTER THAN snake_case!!!!!"
 ```
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZwMTNuZ2t5cmRpMHV6MG5nb3UzeTFrZW05NW42N20xeWtjNXdqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8rwlNTcDAU3MuUzd7/giphy.gif" width="120"/> 
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZwMTNuZ2t5cmRpMHV6MG5nb3UzeTFrZW05NW42N20xeWtjNXdqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8rwlNTcDAU3MuUzd7/giphy.gif"/> 
 <br>
-<em><b>I love learning from other people</b> so if you want to drop advice or discuss ANYTHING (including and specially non-tech) <b>hi, I'll be happy to hear from you via LinkedIN!!</b> 😊</em>
+<em>I love learning from other people, so if you want to drop advice or discuss ANYTHING (including and specially non-tech) I'll be happy to hear from you via LinkedIn!!😊</em>
