@@ -26,17 +26,30 @@
 ```python
 name = "Shaikh Ahmed"
 pronouns = "He | Him"
-professionalInterests = ["Cybersecurity","Information Security Management","Risk Management","Programming","DevSecOps"]
-personalInterests = ["psychology","football","bouldering","poetry","literature","anime","cooking","socialising"]
+professionalInterests = ["Cybersecurity","ISM","Risk Management","Programming","DevSecOps"]
+personalIntellectualInterests = ["psychology","Literature",""Puzzles and CTFS","Sociology"]
+personalOtherInterests = ["Football","Bouldering","Anime","Cooking","Socialising"]
 technologies = {
   "Languages":"Python, Java, C++, Bash, SQL, YAML",
   "Cybersecurity Tools":"Burp-suite, OWASP ZAP, Wireshark, Nmap, Netcat, GHAS",
   "Frameworks/Tools":"Git, GitHub, Docker, Kubernetes, Django, Spring, Maven",
 }
-currentObsession = "creating a functional security system including SIEM, AI, Pipeline Automations and Endpoint Security on a personal network via a private server from an old laptop"
-favoriteSaying = "You may not always be the smartest engineer in the room, but you can always strive to be the kindest"
+
+currentObsession = """
+    creating a functional security system including SIEM, AI,
+    Pipeline Automations and Endpoint Security on a personal
+    network via a private server made from an old laptop
+    """
+
+favoriteSaying = """
+    You may not always be the smartest engineer in the room,
+    but you can always strive to be the kindest
+    """
+
 controversialHotTake = "CamelCase is BETTER THAN snake_case!!!!!"
 ```
 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJiOWI3aXk0cnljMmJwNzg5cGl5ZHRuOWNoaDIxeTNrMHExYjJucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hXY6iNdTFpTW4je85/giphy.gif" width="120"> <em><b>I love learning from other people</b> so if you want to drop advice or discuss ANYTHING (including and specially non-tech) <b>hi, I'll be happy to hear from you via LinkedIN!!</b> 😊</em>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJiOWI3aXk0cnljMmJwNzg5cGl5ZHRuOWNoaDIxeTNrMHExYjJucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hXY6iNdTFpTW4je85/giphy.gif" width="120"/> 
+<br>
+<em><b>I love learning from other people</b> so if you want to drop advice or discuss ANYTHING (including and specially non-tech) <b>hi, I'll be happy to hear from you via LinkedIN!!</b> 😊</em>
