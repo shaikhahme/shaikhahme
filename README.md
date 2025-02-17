@@ -1,10 +1,24 @@
-<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhyZWd1bzVpYmwzdGFzaTM4YWlnazcyazVuemwxNmR2bnNxNWRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gHPOb1fEVWu5GHL2tk/giphy.gif" width="30"/> Hello^^ I'm Shaikh Ahmed!</h2>
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVqNGZ2ZDkzMGwwd296dHRyYzg0eTdqYWo0MWdieG5jbm1uajVkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
-<p><em>Working Student at <a href="https://www.cumulocity.com">Cumulocity's Cybersecurity Department
-</em></p>
+<h2>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhyZWd1bzVpYmwzdGFzaTM4YWlnazcyazVuemwxNmR2bnNxNWRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gHPOb1fEVWu5GHL2tk/giphy.gif" width="30"/> 
+  Hello!! I'm Shaikh Ahmed and Thank you for visiting :)
+</h2>
 
-[![Linkedin: Connect On LinkedIN](https://img.shields.io/badge/-Connect%20On%LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)](https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)
-[![Latest Research](https://img.shields.io/badge/-shaikh-green?style=flat-square&link=https://ieeexplore.ieee.org/document/10592406)](https://ieeexplore.ieee.org/document/10592406)
+<table>
+  <tr>
+    <td>
+      <p>
+        <em>Working Student at 
+        <a href="https://www.cumulocity.com">Cumulocity's Cybersecurity Department</a></em>
+      </p>
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVqNGZ2ZDkzMGwwd296dHRyYzg0eTdqYWo0MWdieG5jbm1uajVkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
+    </td>
+  </tr>
+</table>
+
+[![Linkedin: Connect On LinkedIN](https://img.shields.io/badge/-Connect%20On%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)](https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)
+[![Latest Research](https://img.shields.io/badge/-Latest%20Research!-green?style=flat-square&link=https://ieeexplore.ieee.org/document/10592406)](https://ieeexplore.ieee.org/document/10592406)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
