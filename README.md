@@ -20,9 +20,6 @@
 [![Linkedin: Connect On LinkedIN](https://img.shields.io/badge/-Connect%20On%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)](https://www.linkedin.com/in/shaikh-ahmed-5199a122b/)
 [![Latest Research](https://img.shields.io/badge/-Latest%20Research!-green?style=flat-square&link=https://ieeexplore.ieee.org/document/10592406)](https://ieeexplore.ieee.org/document/10592406)
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZwMTNuZ2t5cmRpMHV6MG5nb3UzeTFrZW05NW42N20xeWtjNXdqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8rwlNTcDAU3MuUzd7/giphy.gif"/> 
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
@@ -51,6 +48,7 @@ favoriteSaying = """
 controversialHotTake = "CamelCase is BETTER THAN snake_case!!!!!"
 ```
 
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt1c2s5NG9iZnpqbXY1bjQzZDlrMTBob3N3MzAyNjJsaG16d3NjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8yI3Ne21rAjHDFzjPG/giphy.gif
+" width="150">
 <br>
 <em>I love learning from other people, so if you want to drop advice or discuss ANYTHING (including and specially non-tech) I'll be happy to hear from you via LinkedIn!!😊</em>
