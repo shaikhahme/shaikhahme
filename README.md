@@ -27,12 +27,12 @@
 name = "Shaikh Ahmed"
 pronouns = "He | Him"
 professionalInterests = ["Cybersecurity","ISM","Risk Management","Programming","DevSecOps"]
-personalIntellectualInterests = ["psychology","Literature",""Puzzles and CTFS","Sociology"]
+personalIntellectualInterests = ["psychology","Literature","Puzzles and CTF","Sociology"]
 personalOtherInterests = ["Football","Bouldering","Anime","Cooking","Socialising"]
 technologies = {
-  "Languages":"Python, Java, C++, Bash, SQL, YAML",
-  "Cybersecurity Tools":"Burp-suite, OWASP ZAP, Wireshark, Nmap, Netcat, GHAS",
-  "Frameworks/Tools":"Git, GitHub, Docker, Kubernetes, Django, Spring, Maven",
+    "Languages": ["Python", "Java", "C++", "Bash", "SQL", "YAML"],
+    "Cybersecurity Tools": ["Burp Suite", "OWASP ZAP", "Wireshark", "Nmap", "Netcat", "GHAS"],
+    "Frameworks/Tools": ["Git", "GitHub", "Docker", "Kubernetes", "Django", "Spring", "Maven"]
 }
 
 currentObsession = """
@@ -50,6 +50,6 @@ controversialHotTake = "CamelCase is BETTER THAN snake_case!!!!!"
 ```
 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJiOWI3aXk0cnljMmJwNzg5cGl5ZHRuOWNoaDIxeTNrMHExYjJucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hXY6iNdTFpTW4je85/giphy.gif" width="120"/> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZwMTNuZ2t5cmRpMHV6MG5nb3UzeTFrZW05NW42N20xeWtjNXdqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8rwlNTcDAU3MuUzd7/giphy.gif" width="120"/> 
 <br>
 <em><b>I love learning from other people</b> so if you want to drop advice or discuss ANYTHING (including and specially non-tech) <b>hi, I'll be happy to hear from you via LinkedIN!!</b> 😊</em>
